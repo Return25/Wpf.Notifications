@@ -1,11 +1,11 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26206.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enterwell.Clients.Wpf.Notifications", "Enterwell.Clients.Wpf.Notifications\Enterwell.Clients.Wpf.Notifications.csproj", "{CFA27B27-9231-4F6D-804A-C0AE33FA5237}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return.Wpf.Notifications", "Return.Wpf.Notifications\Return.Wpf.Notifications.csproj", "{CFA27B27-9231-4F6D-804A-C0AE33FA5237}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enterwell.Clients.Wpf.Notifications.Sample", "Enterwell.Clients.Wpf.Notifications.Sample\Enterwell.Clients.Wpf.Notifications.Sample.csproj", "{4B47659C-0B1D-4273-B03F-D335F9B5E802}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return.Wpf.Notifications.Sample", "Return.Wpf.Notifications.Sample\Return.Wpf.Notifications.Sample.csproj", "{4B47659C-0B1D-4273-B03F-D335F9B5E802}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3AF6FCB5-2016-41CA-9DBD-5C628B3509AE}"
 	ProjectSection(SolutionItems) = preProject
